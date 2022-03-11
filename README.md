@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Lindani here! thanks for dropping by, lets code together!
 
 <!--
 **lindanimoyo/lindanimoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
