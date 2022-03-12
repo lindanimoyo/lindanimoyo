@@ -1,4 +1,4 @@
-### Hi there 👋, Lindani here! thanks for dropping by, lets code together!
+### Hi there 👋, Lindani here! thanks for dropping by, lets code together! #data science #data visualization, #bioinformatics
 Python, R, unix shell, SQL
 
 <!--
