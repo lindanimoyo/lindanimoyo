@@ -1,5 +1,5 @@
 ### Hi there 👋, Lindani here! thanks for dropping by, lets code together! #data science #data visualization #bioinformatics #blockchain
-Python, R, unix shell, SQL
+Python, R, unix shell, SQL, Java
 
 <!--
 **lindanimoyo/lindanimoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
