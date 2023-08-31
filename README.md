@@ -1,4 +1,4 @@
-### Hi there 👋, Lindani here! thanks for dropping by, happy coding! #data science #big data #tidy data #data wrangling #data visualization #bioinformatics🔭 #omics #blockchain
+### Hi there 👋, Lindani here! thanks for dropping by, happy coding! #data science #big data #tidy data #data wrangling #data visualization #bioinformatics🔭 #omics #blockchain #plant-microbe/pathogen interactions
 Python, R, unix shell, SQL
 
 <!--
